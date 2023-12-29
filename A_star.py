@@ -7,7 +7,7 @@ graph={
     'F':[('D',2),('G',3)],
     'G':[('E',5),('F',3)]
 }
-# fgds
+# fgdsdfvgdbbdf
 H_Table={
     'A':1*2,
     'B':1*2,
